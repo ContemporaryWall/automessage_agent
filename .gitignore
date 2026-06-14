@@ -1,0 +1,13 @@
+# 密钥
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 输出文件（可选择是否忽略）
+output/
+
+# IDE
+.idea/

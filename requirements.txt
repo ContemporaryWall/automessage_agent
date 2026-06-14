@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+python-dotenv
+pydantic-settings
+slack-sdk
+PyGithub
+jira
+playwright
+pyautogui
+pytesseract
+Pillow
+apscheduler
+structlog
+rich
